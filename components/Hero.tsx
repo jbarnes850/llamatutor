@@ -92,7 +92,7 @@ const Hero: FC<THeroProps> = ({
           Fully open source!{" "}
           <span className="text-sm font-medium underline">
             <a
-              href="https://github.com/Nutlope/llamatutor"
+              href="https://github.com/jbarnes850/llamatutor"
               target="_blank"
               rel="noopener noreferrer"
             >
